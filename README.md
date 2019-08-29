@@ -22,3 +22,5 @@ In this course an overview is given of different phases of the data analysis pip
 * Loops for repetitive tasks
 * Decision making with the if statement
 * Breaking and continuing loop
+* Functions
+* Visibility of variables
