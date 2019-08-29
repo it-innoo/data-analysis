@@ -13,11 +13,13 @@ def square(x):
 
 def main():
 
-    for i in range(3, 11):
-        if square(i) > triple(i):
+    for i in range(1, 11):
+        s = square(i)
+        t = triple(i)
+        if s > t:
             break
         print("triple({})=={} square({})=={}"
-              .format(i, triple(i), i, square(i)))
+              .format(i, t, i, s))
 
 
 if __name__ == "__main__":

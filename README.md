@@ -24,3 +24,6 @@ In this course an overview is given of different phases of the data analysis pip
 * Breaking and continuing loop
 * Functions
 * Visibility of variables
+* Data structures
+  * Sequences
+  * Modifying lists
