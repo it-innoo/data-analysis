@@ -12,6 +12,8 @@
 .settings/
 .*.sw[nop]
 .sw[nop]
+.tmc*
+*json
 *.tmp
 *.coverage.*
 /.idea
