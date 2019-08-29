@@ -11,3 +11,6 @@ In this course an overview is given of different phases of the data analysis pip
 
 ## Python
 
+### Basic concepts
+
+* Basic input and output
