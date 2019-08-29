@@ -14,3 +14,11 @@ In this course an overview is given of different phases of the data analysis pip
 ### Basic concepts
 
 * Basic input and output
+* Indentation
+* Variables and data types
+* Creating strings
+* Expressions
+* Statements
+* Loops for repetitive tasks
+* Decision making with the if statement
+* Breaking and continuing loop
