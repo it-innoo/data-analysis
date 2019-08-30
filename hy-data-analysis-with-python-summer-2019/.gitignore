@@ -18,8 +18,8 @@ lib/
 lib64/
 parts/
 sdist/
-tmc/
-.tmc*
+.tmc/
+.tmc.json
 *.json
 var/
 wheels/
