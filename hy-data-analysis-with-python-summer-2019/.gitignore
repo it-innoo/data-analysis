@@ -18,9 +18,9 @@ lib/
 lib64/
 parts/
 sdist/
-.tmc/
-.tmc.json
 *.json
+.tmc/
+*.tmc*
 var/
 wheels/
 pip-wheel-metadata/
