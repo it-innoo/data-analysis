@@ -6,3 +6,24 @@ In this course an overview is given of different phases of the data analysis pip
   *  grouped or sorted,
   *  condensed into small number of summary statistics
   *  numerical or string operations can be performed on the data
+
+# Week 1
+
+## Python
+
+### Basic concepts
+
+* Basic input and output
+* Indentation
+* Variables and data types
+* Creating strings
+* Expressions
+* Statements
+* Loops for repetitive tasks
+* Decision making with the if statement
+* Breaking and continuing loop
+* Functions
+* Visibility of variables
+* Data structures
+  * Sequences
+  * Modifying lists
