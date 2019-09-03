@@ -7,10 +7,21 @@ In this course an overview is given of different phases of the data analysis pip
   *  condensed into small number of summary statistics
   *  numerical or string operations can be performed on the data
 
-# Week 1
+## Week 1
 
-## Python
+### Python
 
   * Basic concepts
   * String handling
   * Modules
+
+## Week 2
+
+### Python (continues)
+
+  * Regular expressions
+  * Basic file processing
+  * Objects and classes¶
+  * Exceptions¶
+  * Sequences, iterables, generators: revisited
+
